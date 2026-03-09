@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "bdmine.mcsh.io",
-    "port": 2022,
+    "port": 12120,
     "version": "1.21.1"
   },
   "position": {
