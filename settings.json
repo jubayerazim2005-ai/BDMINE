@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "corexsmp.mcsh.io",
+    "ip": "corexbd.mcsh.io",
     "port": 25565,
     "version": "1.21.1"
   },
